@@ -184,12 +184,12 @@
         position: relative;
         top: 50px;
         font-family: helvetica;
-        font-size: 5vw;
+        font-size: 6vw;
     }
 
     .card-container h3 {
         font-family: helvetica;
-        font-size: 3vw;
+        font-size: 4vw;
         font-weight: bold;
         color: seashell;
     
@@ -197,25 +197,33 @@
     
     .card-container h4 {
         font-family: helvetica;
-        font-size: 2vw;
+        font-size: 3vw;
         color: seashell;
-        padding: 20px;
+        padding: 10px;
     }
     
     .contact a {
         font-family: Helvetica;
-        font-size: 2vw;
+        font-size: 4vw;
         color: seashell;
         text-decoration: none;
     }
     
     .contact h3 a {
-        font-size: 3vw;
+        font-size: 5vw;
+    }
+
+    .contact h3 {
+        padding: 20px;
+    }
+    
+    .contact h5 {
+        padding: 10px
     }
     
     .copyright p {
         font-family: Helvetica;
-        font-size: 2vw;
+        font-size: 3vw;
         color: seashell;
         margin: 20px;
     }
