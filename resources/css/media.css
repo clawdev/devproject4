@@ -140,6 +140,15 @@
         background-attachment: scroll;
     }
 
+    .hero-text h2 {
+        font-size: 6vw;
+
+    }
+
+    .hero-text h4 {
+        font-size: 5vw;
+    }
+
     .image-container {
         width: 100%;
         display: flex;
