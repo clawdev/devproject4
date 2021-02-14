@@ -129,6 +129,15 @@
         flex-wrap: wrap;
     }
 
+    .hero-image {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        background-position: center;
+    }
+
     .image-container {
         width: 100%;
         display: flex;
@@ -137,6 +146,8 @@
         align-items: center;
         flex-wrap: wrap;
     }
+
+    .
 
     .location-container {
         width: 100%;
