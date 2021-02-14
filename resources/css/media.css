@@ -135,7 +135,9 @@
         flex-direction: column;
         justify-content: center;
         align-items: center;
+        background-size: auto;
         background-position: center;
+        background-attachment: scroll;
     }
 
     .image-container {
