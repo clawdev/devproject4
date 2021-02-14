@@ -158,9 +158,6 @@
         justify-content: center;
         align-items: center;
         flex-wrap: wrap;
-        background-size: auto;
-        background-position: center;
-        background-attachment: scroll;
     }
 
     .card-container {
